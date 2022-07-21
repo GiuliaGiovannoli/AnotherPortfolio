@@ -1,0 +1,56 @@
+[
+    {
+        "index": 0,
+        "projectTitle": "Cook like an artist",
+        "github": "https://github.com/GiuliaGiovannoli/wbs-cookblog_node",
+        "live": "https://giuliagiovannoli.github.io/wbs-cookblog_node/#/",
+        "technologies": "Javascript, RectJS, NodeJS, Express, CSS, Bootstrap, MUI",
+        "about": "Cooking blog contening different recipes differenciated by diet restrictions, with special features: add to favorite and upload your recipe.",
+        "img": "../img/cookBlog.png"
+    },
+    {
+        "index": 1,
+        "projectTitle": "",
+        "github": "",
+        "live": "",
+        "technologies": "",
+        "about": "",
+        "img": ""
+    },
+    {
+        "index": 2,
+        "projectTitle": "",
+        "github": "",
+        "live": "",
+        "technologies": "",
+        "about": "",
+        "img": ""
+    },
+    {
+        "index": 3,
+        "projectTitle": "",
+        "github": "",
+        "live": "",
+        "technologies": "",
+        "about": "",
+        "img": ""
+    },
+    {
+        "index": 4,
+        "projectTitle": "",
+        "github": "",
+        "live": "",
+        "technologies": "",
+        "about": "",
+        "img": ""
+    },
+    {
+        "index": 5,
+        "projectTitle": "",
+        "github": "",
+        "live": "",
+        "technologies": "",
+        "about": "",
+        "img": ""
+    }
+]

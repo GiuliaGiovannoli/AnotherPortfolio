@@ -1,0 +1,90 @@
+body {
+    background-color: #1B2430;
+}
+
+.MuiStepLabel-label {
+    color: #bdb9b9 !important;
+}
+
+#paper {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1f272f;
+    border-radius: 10px;
+    margin: 25px 10%;
+    max-width: 80%;
+    text-align: center;
+    box-shadow: 2px 2px 2px rgb(29, 28, 28);
+    border: 1px solid rgb(29, 28, 28);
+}
+
+#intro,
+#discover,
+#ways,
+#thanks {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 24px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-size: 16px;
+    color: rgb(0, 172, 223);
+}
+
+#welcome {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 24px;
+    color: rgb(0, 128, 191);
+    font-weight: 600;
+    letter-spacing: 5px;
+    font-style: italic;
+}
+
+#thanks {
+    font-style: italic;
+    color: rgb(0, 128, 191);
+}
+
+#projects {
+    margin: 0;
+}
+
+#box {
+    width: 320px;
+}
+
+#about,
+#tecnologies,
+#text {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 24px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-size: 16px;
+    margin-top: 10px;
+} 
+
+#title {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 24px;
+    color: rgb(0, 128, 191);
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-align: left;
+    font-style: italic;
+}
+
+#about,
+#tecnologies {
+    font-style: italic;
+    font-weight: 300;
+}
+
+@media only screen and (max-width: 800px) {
+    #paper {
+        margin: 10%;
+        max-width: 80%;
+        text-align: center;
+        box-shadow: 0 0 0 0;
+        border: 1px solid black;
+    }
+  }
