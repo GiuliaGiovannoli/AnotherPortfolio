@@ -45,7 +45,7 @@ export default function AboutMe() {
               <Typography variant="body2" gutterBottom id="intro">
                 Technologies I use and know: <br/>
                 Languages: HTML5, CSS3, Javascript, QML, JSON <br/>
-                Frontend: ReactJS <br/>
+                Front-end: ReactJS <br/>
                 Backend: NodeJS <br/>
                 Databases: MongoDB, PostgreSQL <br/>
                 Tools: Terminal or Command Line, Git, NPM, Postman.<br/>
