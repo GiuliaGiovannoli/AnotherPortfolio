@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 
 import './animations.css'
 
+import { Typography } from '@mui/material';
 import Box from '@mui/material/Box';
 import Fab from '@mui/material/Fab';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import ArticleIcon from '@mui/icons-material/Article';
-import WorkIcon from '@mui/icons-material/Work';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import DraftsIcon from '@mui/icons-material/Drafts';
 
@@ -18,6 +18,11 @@ export default function Footer() {
 
   return (
     <Box sx={{ '& > :not(style)': { m: 1 } }} id="contacts">
+
+       <Typography sx variant="body2" id="feet">
+                Contact me in your favorite way
+        </Typography>
+
       <div className="container">
         <a target="blank" href="https://github.com/GiuliaGiovannoli">
         <div className="color" style={{ animation: bounce && bounce === 1 ? "firstBounce 2s ease infinite" : "" }} href="https://www.linkedin.com/in/giulia-giovannoli">
@@ -56,6 +61,9 @@ export default function Footer() {
         </a>
       </div>
       
+      <Typography variant="body2" color="text.secondary" id="bye">
+            See you soon, and have a lovely day.
+      </Typography>
     </Box>
   );
 }

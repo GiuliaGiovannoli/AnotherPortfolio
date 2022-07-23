@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import './styles.css';
 
@@ -32,22 +32,22 @@ export default function AboutMe() {
           <Grid item xs container direction="column" spacing={0}>
             <Grid item xs>
               <Typography gutterBottom variant="subtitle1" component="div" id="welcome">
-                WELCOME!
+                Hi there! Welcome,
               </Typography>
               <Typography variant="body2" gutterBottom id="intro">
-                Hello, my name is Giulia, nice to meet you. <br/>
-                I am a frontend developer based in Berlin. <br/>
-                I code gui for desktop softwares as well as web applications. <br/>
-                I love what I do. <br/>
-                In my personal life, I am a pawparent of three beautiful pets. <br/>
+                My name is Giulia, nice to meet you. <br/>
+                I am a front-end developer based in Berlin. <br/>
+                I code web applications as well as GUI for desktop software. <br/>
+                I am driven to create animations and UI effects, I also love creating intuitive, dynamic user experiences. <br/>
+                In my personal life, I am a paw-parent of three beautiful pets. <br/>
               </Typography>
               <br/>
               <Typography variant="body2" gutterBottom id="intro">
                 Technologies I use and know: <br/>
-                Languages: HTML5, CSS3, Javascript, QML, JSON, <br/>
-                Frontend: ReactJS, <br/>
-                Backend: NodeJS, <br/>
-                Database: MongoDB, PostgreSQL, <br/>
+                Languages: HTML5, CSS3, Javascript, QML, JSON <br/>
+                Frontend: ReactJS <br/>
+                Backend: NodeJS <br/>
+                Databases: MongoDB, PostgreSQL <br/>
                 Tools: Terminal or Command Line, Git, NPM, Postman.<br/>
               </Typography>
               <Typography variant="body2" id="discover">

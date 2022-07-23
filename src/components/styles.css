@@ -19,8 +19,7 @@ body {
 
 #intro,
 #discover,
-#ways,
-#thanks {
+#ways {
     font-family: 'Montserrat', sans-serif;
     line-height: 24px;
     letter-spacing: 1px;
@@ -30,16 +29,16 @@ body {
 }
 
 #welcome {
-    font-family: 'Alegreya Sans', sans-serif;
-    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
     color: rgb(0, 128, 191);
     font-weight: 600;
-    letter-spacing: 5px;
-    font-style: italic;
+    letter-spacing: 2px;
 }
 
 #thanks {
-    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
     color: rgb(0, 128, 191);
 }
 
@@ -63,20 +62,31 @@ body {
 } 
 
 #title {
-    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     color: rgb(0, 128, 191);
     font-weight: 600;
     letter-spacing: 1px;
     word-spacing: 2px;
     text-align: left;
-    font-style: italic;
 }
 
 #about,
 #tecnologies {
     font-style: italic;
     font-weight: 300;
+}
+
+#feet {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    color: rgb(0, 128, 191);
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-align: center;
+    margin-top: 50px ;
+    margin-bottom: 5px;
 }
 
 @media only screen and (max-width: 800px) {
