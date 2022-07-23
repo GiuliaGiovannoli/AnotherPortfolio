@@ -30,7 +30,7 @@
         "index": 3,
         "projectTitle": "HackerNews",
         "github": "https://github.com/GiuliaGiovannoli/hackernews_challenge",
-        "live": "giuliagiovannoli.github.io/hackernews_challenge/",
+        "live": "https://giuliagiovannoli.github.io/hackernews_challenge/#/",
         "technologies": "Javascript, ReactJS, NodeJS, Express, CSS, Bootstrap, MUI",
         "about": "Page for posting, liking and reading hacker related news. Login and registration features.",
         "img": "../img/hacker.png"
