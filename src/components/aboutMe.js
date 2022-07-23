@@ -39,7 +39,7 @@ export default function AboutMe() {
                 I am a front-end developer based in Berlin. <br/>
                 I code web applications as well as GUI for desktop software. <br/>
                 I am driven to create animations and UI effects, I also love creating intuitive, dynamic user experiences. <br/>
-                In my personal life, I am a paw-parent of three beautiful pets. <br/>
+                In my personal life, I love exploring nature with my pets and testing the user experience of popular e-commerce websites. <br/>
               </Typography>
               <br/>
               <Typography variant="body2" gutterBottom id="intro">
