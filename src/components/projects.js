@@ -39,12 +39,16 @@ export default function Projects({data}) {
             </Typography>
           </CardContent>
           <Box sx={{ display: 'flex', justifyContent: 'space-evenly', pl: 1, pb: 1 }}>
+          <a target="blank" href={data.github}>
             <IconButton aria-label="play/pause">
               <CodeIcon color="info" />
             </IconButton>
+            </a>
+            <a target="blank" href={data.live}>
             <IconButton aria-label="next">
               <LanguageIcon color="info" />
             </IconButton>
+            </a>
           </Box>
         </Box>
         <CardMedia

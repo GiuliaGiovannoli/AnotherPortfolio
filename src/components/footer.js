@@ -26,7 +26,7 @@ export default function Footer() {
           </Fab>
         </div>
         </a>
-        <a target="blank" href="https://www.canva.com/design/DAE_FIYIVlM/4zLO0O5k5yuikmNnYwiSFA/edit?utm_content=DAE_FIYIVlM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+        <a target="blank" href="https://www.canva.com/design/DAE_FIYIVlM/4zLO0O5k5yuikmNnYwiSFA/view?utm_content=DAE_FIYIVlM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
         <div className="color" style={{ animation: bounce && bounce === 3 ? "firstBounce 2s ease infinite" : "" }}>
           <Fab color="info" onMouseEnter={() => setBounce(3)} onMouseLeave={() => setBounce(0)}>
             <ArticleIcon style={{ animation: bounce && bounce === 3 ? "delayedBounce 2s ease infinite" : "" }} />
