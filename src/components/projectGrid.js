@@ -11,6 +11,7 @@ import Grid from '@mui/material/Grid';
 
 export default function ProjectGrid() {
   return (
+    <div id="grid">
     <Grid sx={{ justifyContent: "space-around" }} container spacing={2} id="projects">
       {data.map((el) => (
         <Grid key={el.index} item>
@@ -20,5 +21,6 @@ export default function ProjectGrid() {
         </Grid>
        ))}
     </Grid>
+    </div>
   );
 }

@@ -14,17 +14,17 @@ export default function App() {
     {
       index: 0,
       stepName: 'Who am I', 
-      link: "card"
+      link: "#card"
     }, 
     {
       index: 1,
       stepName: 'What I do', 
-      link: "grid"
+      link: "#grid"
     }, 
     {
       index: 2,
       stepName: 'Where to find me', 
-      link: "contacts"
+      link: "#contacts"
     }, 
 ];
 

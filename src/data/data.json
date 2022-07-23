@@ -1,21 +1,21 @@
 [
     {
         "index": 0,
-        "projectTitle": "Cook like an artist",
-        "github": "https://github.com/GiuliaGiovannoli/wbs-cookblog_node",
-        "live": "https://giuliagiovannoli.github.io/wbs-cookblog_node/#/",
-        "technologies": "Javascript, RectJS, NodeJS, Express, CSS, Bootstrap, MUI",
-        "about": "Cooking blog contening different recipes differenciated by diet restrictions, with special features: add to favorite and upload your recipe.",
-        "img": "../img/cookBlog.png"
+        "projectTitle": "BeautyLife",
+        "github": "https://github.com/GiuliaGiovannoli/BeautyLife_WBS",
+        "live": "https://giuliagiovannoli.github.io/BeautyLife_WBS/",
+        "technologies": "Javascript, ReactJS, Redux, NodeJS, Express, CSS, Bootstrap, MUI",
+        "about": "Virtual online shop for cosmetics. Search bar, filtering, book a lesson, login, registration and payment features.",
+        "img": ""
     },
     {
         "index": 1,
-        "projectTitle": "",
-        "github": "",
-        "live": "",
-        "technologies": "",
-        "about": "",
-        "img": ""
+        "projectTitle": "Cook like an artist",
+        "github": "https://github.com/GiuliaGiovannoli/wbs-cookblog_node",
+        "live": "https://giuliagiovannoli.github.io/wbs-cookblog_node/#/",
+        "technologies": "Javascript, ReactJS, NodeJS, Express, CSS, Bootstrap, MUI",
+        "about": "Cooking blog contening different recipes differenciated by diet restrictions, with special features: add to favorite and upload your recipe.",
+        "img": "../img/cookBlog.png"
     },
     {
         "index": 2,
@@ -28,29 +28,29 @@
     },
     {
         "index": 3,
-        "projectTitle": "",
-        "github": "",
-        "live": "",
-        "technologies": "",
-        "about": "",
-        "img": ""
+        "projectTitle": "HackerNews",
+        "github": "https://github.com/GiuliaGiovannoli/hackernews_challenge",
+        "live": "giuliagiovannoli.github.io/hackernews_challenge/",
+        "technologies": "Javascript, ReactJS, NodeJS, Express, CSS, Bootstrap, MUI",
+        "about": "Page for posting, liking and reading hacker related news. Login and registration features.",
+        "img": "../img/hacker.png"
     },
     {
         "index": 4,
-        "projectTitle": "",
-        "github": "",
-        "live": "",
-        "technologies": "",
-        "about": "",
-        "img": ""
+        "projectTitle": "NEWS",
+        "github": "https://github.com/GiuliaGiovannoli/hacker-news-api",
+        "live": "https://kajalben.github.io/hacker-news-api/",
+        "technologies": "Javascript, ReactJS, CSS, Bootstrap, MUI",
+        "about": "News api, with searching and filtering features.",
+        "img": "../img/news.png"
     },
     {
         "index": 5,
-        "projectTitle": "",
-        "github": "",
-        "live": "",
-        "technologies": "",
-        "about": "",
-        "img": ""
+        "projectTitle": "MakeIt",
+        "github": "https://github.com/GiuliaGiovannoli/toDoList",
+        "live": "https://giuliagiovannoli.github.io/toDoList/",
+        "technologies": "HTML5, CSS3, Javascript",
+        "about": "To do list with drag and drop.",
+        "img": "../img/makeIt.png"
     }
 ]

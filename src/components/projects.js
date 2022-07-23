@@ -3,6 +3,11 @@ import React from 'react';
 import './styles.css';
 
 import CookBlog from "../img/cookBlog.png";
+import MakeIt from "../img/makeIt.png";
+import News from "../img/news.png";
+import Hacker from "../img/hacker.png";
+import Shop from "../img/shop.png";
+//import CookBlog from "../img/cookBlog.png";
 
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
@@ -45,7 +50,14 @@ export default function Projects({data}) {
         <CardMedia
           component="img"
           sx={{ width: 300, height: 320 }}
-          image={CookBlog}
+          image={
+            data.index === 0 ? Shop : 
+            data.index === 1 ? CookBlog : 
+            data.index === 2 ? CookBlog : 
+            data.index === 3 ? Hacker : 
+            data.index === 4 ? News : 
+            data.index === 5 ? MakeIt : CookBlog
+          }
           alt={data.projectTitle}
         />
       </Card>

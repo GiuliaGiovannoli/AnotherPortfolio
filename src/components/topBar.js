@@ -47,16 +47,14 @@ function ColorlibStepIcon(props) {
   return (
     <Stack sx={{ width: '100%' }}>
       <Stepper alternativeLabel connector={<ColorlibConnector />}>
-        {steps && steps.map((el) =>  {
+        {steps && steps.map((el, index) =>  {
           return (
-          <Step 
-            key={el.index}
-            onClick={() => ""}
-          >
+          <Step key={index} onClick={()=> window.location.href = "/AnotherPortfolio/" + el.link}>
             <StepLabel StepIconComponent={ColorlibStepIcon}>
               {el.stepName}
             </StepLabel>
           </Step>
+          
           )
         })}
       </Stepper>
