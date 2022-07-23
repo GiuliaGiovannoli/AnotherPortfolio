@@ -23,7 +23,7 @@ export default function Projects({data}) {
 
   return (
     <>
-      <Card sx={{ display: 'flex', flex: "row wrap", alignItems: "center", justifyContent: "space-around", padding: "10px" }}>
+      <Card sx={{ display: 'flex', flex: "row wrap", alignItems: "center", justifyContent: "space-around", padding: "10px", backgroundColor: "#B2C8DF", boxShadow: "2px 2px 2px #C4D7E0" }}>
         <Box sx={{ display: 'flex', flexDirection: 'column' }} id="box">
           <CardContent sx={{ flex: '1 0 auto' }} id="cardText">
             <Typography component="div" variant="h5" id="title">
