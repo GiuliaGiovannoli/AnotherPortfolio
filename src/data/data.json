@@ -19,11 +19,11 @@
     },
     {
         "index": 2,
-        "projectTitle": "",
-        "github": "",
-        "live": "",
-        "technologies": "",
-        "about": "",
+        "projectTitle": "Landing page",
+        "github": "https://github.com/GiuliaGiovannoli/html_css_website",
+        "live": "https://giuliagiovannoli.github.io/html_css_website/",
+        "technologies": "HTML5, CSS3",
+        "about": "Landing page example.",
         "img": ""
     },
     {
