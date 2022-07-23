@@ -46,7 +46,7 @@ export default function AboutMe() {
                 Technologies I use and know: <br/>
                 Languages: HTML5, CSS3, Javascript, QML, JSON <br/>
                 Front-end: ReactJS <br/>
-                Backend: NodeJS <br/>
+                Back-end: NodeJS <br/>
                 Databases: MongoDB, PostgreSQL <br/>
                 Tools: Terminal or Command Line, Git, NPM, Postman.<br/>
               </Typography>
