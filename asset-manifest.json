@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AnotherPortfolio/static/css/main.46874817.css",
-    "main.js": "/AnotherPortfolio/static/js/main.f596c896.js",
+    "main.css": "/AnotherPortfolio/static/css/main.956215fd.css",
+    "main.js": "/AnotherPortfolio/static/js/main.f02f17af.js",
     "static/js/787.28cb0dcd.chunk.js": "/AnotherPortfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/landing.png": "/AnotherPortfolio/static/media/landing.f94391f7f5121df3a339.png",
     "static/media/shop.png": "/AnotherPortfolio/static/media/shop.3b295d921ba9f7fc97ba.png",
     "static/media/cookBlog.png": "/AnotherPortfolio/static/media/cookBlog.bb4c323c179d1ea007eb.png",
     "static/media/news.png": "/AnotherPortfolio/static/media/news.02024444ee7f7ea5ef26.png",
     "static/media/hacker.png": "/AnotherPortfolio/static/media/hacker.58e5df3f8aeb8b53b4c0.png",
     "static/media/One.jpg": "/AnotherPortfolio/static/media/One.ff792b82769bc0a5fddc.jpg",
+    "static/media/npmApi.png": "/AnotherPortfolio/static/media/npmApi.c2b7acdff12ee31dda1e.png",
     "static/media/makeIt.png": "/AnotherPortfolio/static/media/makeIt.c12718ed9cb2a0520326.png",
     "index.html": "/AnotherPortfolio/index.html",
-    "main.46874817.css.map": "/AnotherPortfolio/static/css/main.46874817.css.map",
-    "main.f596c896.js.map": "/AnotherPortfolio/static/js/main.f596c896.js.map",
+    "main.956215fd.css.map": "/AnotherPortfolio/static/css/main.956215fd.css.map",
+    "main.f02f17af.js.map": "/AnotherPortfolio/static/js/main.f02f17af.js.map",
     "787.28cb0dcd.chunk.js.map": "/AnotherPortfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46874817.css",
-    "static/js/main.f596c896.js"
+    "static/css/main.956215fd.css",
+    "static/js/main.f02f17af.js"
   ]
 }
