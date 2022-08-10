@@ -62,7 +62,7 @@ export default function Footer() {
       </div>
       
       <Typography variant="body2" color="text.secondary" id="bye">
-            See you soon, and have a lovely day.
+            Thank you for checking my portfolio
       </Typography>
     </Box>
   );

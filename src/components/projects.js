@@ -7,7 +7,7 @@ import MakeIt from "../img/makeIt.png";
 import News from "../img/news.png";
 import Hacker from "../img/hacker.png";
 import Shop from "../img/shop.png";
-import Landing from "../img/landing.png";
+import npmApi from "../img/npmApi.png";
 
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
@@ -57,7 +57,7 @@ export default function Projects({data}) {
           image={
             data.index === 0 ? Shop : 
             data.index === 1 ? CookBlog : 
-            data.index === 2 ? Landing : 
+            data.index === 2 ? npmApi : 
             data.index === 3 ? Hacker : 
             data.index === 4 ? News : 
             data.index === 5 ? MakeIt : CookBlog

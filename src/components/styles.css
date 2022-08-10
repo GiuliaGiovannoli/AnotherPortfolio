@@ -89,6 +89,15 @@ body {
     margin-bottom: 5px;
 }
 
+#bye {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    color: rgb(0, 128, 191);
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
 @media only screen and (max-width: 800px) {
     #paper {
         margin: 10%;

@@ -19,11 +19,11 @@
     },
     {
         "index": 2,
-        "projectTitle": "Landing page",
-        "github": "https://github.com/GiuliaGiovannoli/html_css_website",
-        "live": "https://giuliagiovannoli.github.io/html_css_website/",
-        "technologies": "HTML5, CSS3",
-        "about": "Landing page example.",
+        "projectTitle": "Rest API",
+        "github": "https://github.com/GiuliaGiovannoli/RestApi_Npm",
+        "live": "giuliagiovannoli.github.io/restapi_npm/",
+        "technologies": "Javascript, ReactJS, CSS, MUI",
+        "about": "Front-end application displaying Npm's GitHub API.",
         "img": ""
     },
     {
